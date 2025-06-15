@@ -1,6 +1,6 @@
 import React from 'react';
 import profileImage from '../assets/ProfileImage/Raheem Adekunle_resized.jpg';
-import './Profileinfo.css';
+import './ProfileInfo.css';
 
 function ProfileCard(props) {
   return (
